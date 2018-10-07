@@ -1,0 +1,11 @@
+..\obj\mqttconnectserver.o: ..\App\paho\MQTTPacket\MQTTConnectServer.c
+..\obj\mqttconnectserver.o: ..\App\paho\MQTTPacket\StackTrace.h
+..\obj\mqttconnectserver.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\mqttconnectserver.o: ..\App\paho\MQTTPacket\MQTTPacket.h
+..\obj\mqttconnectserver.o: ..\App\paho\MQTTPacket\MQTTConnect.h
+..\obj\mqttconnectserver.o: ..\App\paho\MQTTPacket\MQTTPublish.h
+..\obj\mqttconnectserver.o: ..\App\paho\MQTTPacket\MQTTSubscribe.h
+..\obj\mqttconnectserver.o: ..\App\paho\MQTTPacket\MQTTUnsubscribe.h
+..\obj\mqttconnectserver.o: ..\App\paho\MQTTPacket\MQTTFormat.h
+..\obj\mqttconnectserver.o: ..\App\paho\MQTTPacket\MQTTPacket.h
+..\obj\mqttconnectserver.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
